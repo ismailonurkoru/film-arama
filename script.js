@@ -11,7 +11,7 @@ $(function(){
   const $navLinks    = $('.nav-link');
   const $logo        = $('#logoBrand');
 
-  // ÖNEMLİ: Kendi TMDb API Anahtarını buraya yapıştır
+  // Kendi TMDb API Anahtarını buraya yapıştır
   const apiKey = 'fb496c19788d90b1a1887410a059e897';
 
   // Durum Yönetimi
